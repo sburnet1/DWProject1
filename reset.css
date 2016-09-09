@@ -27,13 +27,12 @@ p{
 
 header {
 	color: #fff;
-	font-size: 4em;
-	position: fixed;
+	font-size: 5em;
+	position: relative;
 	margin: auto;
 	background-color: #212F3C;
 	width: 100%;
 	text-align: center;
 	z-index: 9999999;
-	padding: 2em;
 
 }
