@@ -28,10 +28,12 @@ p{
 header {
 	color: #fff;
 	font-size: 4em;
-	position: relative;
+	position: fixed;
 	margin: auto;
 	background-color: #212F3C;
 	width: 100%;
 	text-align: center;
+	z-index: 9999999;
+	padding: 2em;
 
 }
