@@ -1,5 +1,5 @@
 html {
-	background-image: url("/home/steve/digital1/background.jpg");
+	background-image: url("background.jpg");
 	size: 100%;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
