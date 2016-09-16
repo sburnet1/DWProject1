@@ -22,7 +22,7 @@ p{
 
 	
 }
-header {
+section#title  {
 
 	display: block;
 	width: 90%;
@@ -32,28 +32,21 @@ header {
 	top: 0;
 	float: left;
 }
-header h1{
+section#title h1{
 	color: #fff;
-	font-size: 5em;
+	font-size: 4em;
 
+}
+section#title h2 {
+
+	color: #fff;
+	font-size: 1.5em;
 }
 header img {
 
 	display: block;
 	float: center;
 }
-footer {
-	display: block;
-	width: 90%;
-        position: fixed;
-	margin-left: right;
-	z-index: 9999999;
-	bottom: 0;
-	float: left;
-}
-footer h1{
-	color: #fff;
-	font-size: 1.5em;
-	padding: .25em;
 
-}
+
+
