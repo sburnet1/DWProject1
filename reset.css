@@ -19,9 +19,7 @@ p{
 	padding-bottom: 1em;
 	width:50%; 
 	float: right;
-	border-style: solid;
-	border-width: 1px;
-	border-color:#fff;
+	
 
 	
 }
@@ -67,5 +65,11 @@ img.bottom {
 	padding-bottom: 2em;
 	width:90%;
 	height: 20em;
+}
+story {
+
+border-style: solid;
+	border-width: 1px;
+	border-color:#fff;
 }
 
