@@ -44,8 +44,7 @@ header img {
 }
 footer {
 	display: block;
-        background-color: #212F3C;
-	width:50%;
+       	width:50em;
         position: fixed;
 	text-align: center;
 	z-index: 9999999;
