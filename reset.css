@@ -28,9 +28,10 @@ header {
 	width: 100%;
         position: fixed;
 	margin: auto;
-	text-align: center;
+	text-align: left;
 	z-index: 9999999;
 	top: 0;
+	background: transparent url(nottoday.png) no-repeat right;
 }
 header h1{
 	color: #fff;
