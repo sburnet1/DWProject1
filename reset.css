@@ -1,17 +1,17 @@
-#html {
+html {
 	background-image: url("background.jpg");
 	size: 100%;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 }
 
-#body {
+body {
 	width: 75%;
 	margin: auto;
 	position: relative;
 }
 
-#p{
+p{
 	color: #fff;
 	font-size: 1.4em;
 	padding-left: 2em;
@@ -22,7 +22,7 @@
 
 	
 }
-#header {
+header {
 
 
 	width: 90%;
@@ -32,12 +32,12 @@
 	top: 0;
 	background: transparent url(nottoday.png) no-repeat right;
 }
-#header h1{
+header h1{
 	color: #fff;
 	font-size: 5em;
 
 }
-#footer {
+footer {
 
         background-color: #212F3C;
 	width: 15em;
@@ -47,7 +47,7 @@
 	bottom: 0;
 	margin: auto, 0;
 }
-#footer h1{
+footer h1{
 	color: #fff;
 	font-size: 2em;
 	padding: .25em;
