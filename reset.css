@@ -37,8 +37,17 @@ header h1{
 	font-size: 5em;
 
 }
-header h2{
+footer {
+
+        background-color: #212F3C;
+	width: 100%;
+        position: relative;
+	margin: auto;
+	text-align: center;
+	z-index: 9999999;
+}
+footer h1{
 	color: #fff;
-	font-size: 2em;
-	
+	font-size: 5em;
+
 }
