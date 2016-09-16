@@ -26,7 +26,6 @@ p{
 header {
 
         background-color: #212F3C;
-	width: 100%;
 	z-index: 9999999;
 	float: left;
 }
@@ -35,6 +34,10 @@ header h1{
 	font-size: 5em;
 	padding: 1em;
 
+}
+header img {
+
+	float: right;
 }
 footer {
 
@@ -52,7 +55,4 @@ footer h1{
 
 }
 
-header img {
 
-	float: right;
-}
