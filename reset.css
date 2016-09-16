@@ -29,7 +29,7 @@ header {
 	width: 100%;
         position: relative;
 	margin: auto;
-	text-align: center;
+	text-align: left;
 	z-index: 9999999;
 }
 header h1{
@@ -52,4 +52,9 @@ footer h1{
 	font-size: 2em;
 	padding: 1em;
 
+}
+
+img {
+
+	float: right;
 }
