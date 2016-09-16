@@ -23,7 +23,7 @@ p{
 
 	
 }
-title {
+header {
 
         background-color: #212F3C;
 	width: 100%;
@@ -32,12 +32,12 @@ title {
 	text-align: center;
 	z-index: 9999999;
 }
-title h1{
+header h1{
 	color: #fff;
 	font-size: 5em;
 
 }
-title h2{
+header h2{
 	color: #fff;
 	font-size: 2em;
 	
