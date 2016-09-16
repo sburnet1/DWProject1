@@ -30,7 +30,6 @@ header {
 	margin-left: right;
 	z-index: 9999999;
 	top: 0;
-	background: transparent url(nottoday.png) no-repeat left;
 }
 header h1{
 	color: #fff;
