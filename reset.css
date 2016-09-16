@@ -27,9 +27,6 @@ header {
 
         background-color: #212F3C;
 	width: 100%;
-        position: relative;
-	margin: auto;
-	text-align: left;
 	z-index: 9999999;
 	float: left;
 }
@@ -55,7 +52,7 @@ footer h1{
 
 }
 
-img {
+header img {
 
 	float: right;
 }
