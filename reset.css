@@ -9,7 +9,7 @@ body {
 	width: 75%;
 	margin: auto;
 	background-color: rgba(52, 73, 94, 0.8);
-	padding-bottom: 3em;
+	padding: 3em;
 	position: relative;
 }
 
@@ -18,7 +18,7 @@ p{
 	font-size: 1.5em;
 	padding-left: 2em;
 	padding-right: 2em;
-	padding-bottom: .5em;
+	padding-bottom: .75em;
 	width:80%; 
 	margin: auto;
 
