@@ -52,5 +52,12 @@ header img {
 
 }
 
+.top {
 
+	bottom: 0;
+}
+.bottom {
+	top: 0;
+
+}
 
