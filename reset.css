@@ -5,7 +5,7 @@ html {
 	background-attachment: fixed;
 }
 
-section#story {
+body {
 	width: 75%;
 	margin: auto;
 	background-color: rgba(52, 73, 94, 0.8);
@@ -24,20 +24,19 @@ p{
 	
 }
 header {
-	width: 60%;
+
         background-color: #212F3C;
+	width: 100%;
+        position: relative;
+	margin: auto;
+	text-align: center;
 	z-index: 9999999;
-	position: relative;
 }
 header h1{
 	color: #fff;
 	font-size: 5em;
-	position: relative;
-	float: left;
-}
-header img {
+	padding: 1em;
 
-	float: right;
 }
 footer {
 
@@ -54,5 +53,3 @@ footer h1{
 	padding: 1em;
 
 }
-
-
