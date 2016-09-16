@@ -40,16 +40,15 @@ header h1{
 header img {
 
 	display: block;
-	float: left;
+	float: center;
 }
 footer {
 	display: block;
-       	width:90%;
+	width: 90%;
         position: fixed;
-	text-align: center;
+	margin-left: right;
 	z-index: 9999999;
 	bottom: 0;
-	margin:right;
 	float: left;
 }
 footer h1{
