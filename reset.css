@@ -27,7 +27,7 @@ section#title  {
 	display: block;
 	width: 30%;
         position: fixed;
-	margin-left: right;
+	margin: auto;
 	z-index: 9999999;
 	top: 0;
 	float: left;
