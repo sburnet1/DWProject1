@@ -31,6 +31,7 @@ section#title  {
 	z-index: 9999999;
 	top: 0;
 	float: left;
+		background-color: rgba(141, 141, 159, 0.3);
 }
 section#title h1{
 	color: #fff;
