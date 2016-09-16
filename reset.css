@@ -25,13 +25,13 @@ p{
 section#title  {
 
 	display: block;
-	width: 90%;
+	width: 40%;
         position: fixed;
 	margin-left: right;
 	z-index: 9999999;
 	top: 0;
 	float: left;
-		background-color: rgba(141, 141, 159, 0.3);
+	background-color: rgba(141, 141, 159, 0.3);
 }
 section#title h1{
 	color: #fff;
