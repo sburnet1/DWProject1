@@ -7,7 +7,7 @@ html {
 
 body {
 	width: 75%;
-	margin: auto;
+	margin-top: auto;
 	background-color: rgba(52, 73, 94, 0.8);
 	position: relative;
 }
@@ -28,6 +28,7 @@ header {
         background-color: #212F3C;
 	z-index: 9999999;
 	float: left;
+	
 }
 header h1{
 	color: #fff;
