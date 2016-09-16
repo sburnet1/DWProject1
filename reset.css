@@ -25,7 +25,7 @@ p{
 	
 }
 
-header {
+header h1{
 	color: #fff;
 	font-size: 5em;
 	position: relative;
@@ -36,3 +36,12 @@ header {
 	z-index: 9999999;
 
 }
+header h2{
+	color: #fff;
+	font-size: 2em;
+	position: relative;
+	margin: auto;
+	background-color: #212F3C;
+	width: 100%;
+	text-align: center;
+	z-index: 9999999;
