@@ -7,9 +7,10 @@ html {
 
 body {
 	width: 75%;
-	margin-top: auto;
+	margin: auto;
 	background-color: rgba(52, 73, 94, 0.8);
 	position: relative;
+	padding-top: 1em;
 }
 
 p{
