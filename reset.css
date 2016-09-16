@@ -19,6 +19,9 @@ p{
 	padding-bottom: 1em;
 	width:50%; 
 	float: right;
+	border-style: solid;
+	border-width: 1px;
+	border-color:#fff;
 
 	
 }
