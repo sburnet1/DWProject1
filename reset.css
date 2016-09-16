@@ -18,19 +18,19 @@ p{
 	padding-right: 2em;
 	padding-bottom: 1em;
 	width:50%; 
-	float: left;
+	float: right;
 
 	
 }
 header {
 
-
+	display: block;
 	width: 90%;
         position: fixed;
-	margin-left: left;
+	margin-left: right;
 	z-index: 9999999;
 	top: 0;
-	background: transparent url(nottoday.png) no-repeat right;
+	background: transparent url(nottoday.png) no-repeat left;
 }
 header h1{
 	color: #fff;
@@ -38,14 +38,14 @@ header h1{
 
 }
 footer {
-
+	display: block;
         background-color: #212F3C;
 	width: 75em;
         position: fixed;
 	text-align: center;
 	z-index: 9999999;
 	bottom: 0;
-	margin: left;
+	margin: right;
 }
 footer h1{
 	color: #fff;
