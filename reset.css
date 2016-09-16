@@ -27,7 +27,7 @@ header {
 
 	width: 90%;
         position: fixed;
-	margin-left: auto;
+	margin-left: left;
 	z-index: 9999999;
 	top: 0;
 	background: transparent url(nottoday.png) no-repeat right;
@@ -40,12 +40,12 @@ header h1{
 footer {
 
         background-color: #212F3C;
-	width: 15em;
+	width: 75em;
         position: fixed;
 	text-align: center;
 	z-index: 9999999;
 	bottom: 0;
-	margin: auto, 0;
+	margin: left;
 }
 footer h1{
 	color: #fff;
