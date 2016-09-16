@@ -49,7 +49,7 @@ section#title h2 {
 img.top {
 	display: block;
 	margin: auto;
-	bottom: -.25em;
+	bottom: -10px;
 	padding-top: 2em;
 }
 img.bottom {
