@@ -32,6 +32,7 @@ section#title  {
 	top: 0;
 	float: left;
 	background-color: rgba(141, 141, 159, 0.3);
+	text-align: center;
 }
 section#title h1{
 	color: #fff;
