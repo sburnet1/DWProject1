@@ -31,6 +31,7 @@ header {
 	margin: auto;
 	text-align: left;
 	z-index: 9999999;
+	float: left;
 }
 header h1{
 	color: #fff;
