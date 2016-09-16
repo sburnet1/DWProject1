@@ -30,6 +30,9 @@ p{
 p.top { 
 
 	padding-top: 3em;
+	border-top-style: solid;
+	border-width: 10px;
+	border-color:rgba(141,141,159,0.8);
 
 }
 section#title  {
