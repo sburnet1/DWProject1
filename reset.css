@@ -30,11 +30,17 @@ header {
 	margin-left: right;
 	z-index: 9999999;
 	top: 0;
+	float: left;
 }
 header h1{
 	color: #fff;
 	font-size: 5em;
 
+}
+header img {
+
+	display: block;
+	float: left;
 }
 footer {
 	display: block;
@@ -44,7 +50,8 @@ footer {
 	text-align: center;
 	z-index: 9999999;
 	bottom: 0;
-	margin: right;
+	margin:auto;
+	float: left;
 }
 footer h1{
 	color: #fff;
