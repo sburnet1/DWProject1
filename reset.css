@@ -9,7 +9,6 @@ body {
 	width: 75%;
 	margin: auto;
 	background-color: rgba(52, 73, 94, 0.8);
-	padding: .5em;
 	position: relative;
 }
 
@@ -24,7 +23,7 @@ p{
 
 	
 }
-header {
+title {
 
         background-color: #212F3C;
 	width: 100%;
@@ -33,12 +32,12 @@ header {
 	text-align: center;
 	z-index: 9999999;
 }
-header h1{
+title h1{
 	color: #fff;
 	font-size: 5em;
 
 }
-header h2{
+title h2{
 	color: #fff;
 	font-size: 2em;
 	
