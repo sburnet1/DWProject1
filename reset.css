@@ -32,12 +32,13 @@ header {
 header h1{
 	color: #fff;
 	font-size: 5em;
-	padding: 1em;
+	position: relative;
 
 }
 header img {
 
 	float: right;
+	position: relative;
 }
 footer {
 
