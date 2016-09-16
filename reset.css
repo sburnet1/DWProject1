@@ -40,7 +40,7 @@ header h1{
 footer {
 	display: block;
         background-color: #212F3C;
-	width: 75em;
+	width:50%;
         position: fixed;
 	text-align: center;
 	z-index: 9999999;
