@@ -28,7 +28,6 @@ header {
 
         background-color: #212F3C;
 	z-index: 9999999;
-	float: left;
 	padding-right: 1em;
 	
 }
@@ -36,6 +35,7 @@ header h1{
 	color: #fff;
 	font-size: 5em;
 	position: relative;
+	float: left;
 
 }
 header img {
