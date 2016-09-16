@@ -14,10 +14,10 @@ body {
 
 p{
 	color: #fff;
-	font-size: 1.5em;
+	font-size: 1.4em;
 	padding-left: 2em;
 	padding-right: 2em;
-	padding-bottom: .75em;
+	padding-bottom: 1em;
 	width:80%; 
 	margin: auto;
 
@@ -35,6 +35,7 @@ header {
 header h1{
 	color: #fff;
 	font-size: 5em;
+	padding: 1em;
 
 }
 footer {
