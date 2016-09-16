@@ -14,8 +14,8 @@ body {
 p{
 	color: #fff;
 	font-size: 1.4em;
-	padding-left: 2em;
-	padding-right: 2em;
+	padding-left: 1.5em;
+	padding-right: 1.5em;
 	width:50%; 
 	float: right;
 	border-left-style: solid;
@@ -36,7 +36,7 @@ p.top {
 }
 p.bottom { 
 
-	padding-top: 3em;
+	padding-bottom: 3em;
 	border-bottom-style: solid;
 	border-width: 10px;
 	border-color:rgba(141,141,159,0.8);
