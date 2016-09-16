@@ -10,7 +10,6 @@ body {
 	margin: auto;
 	background-color: rgba(52, 73, 94, 0.8);
 	position: relative;
-	padding-top: 1em;
 }
 
 p{
@@ -25,23 +24,20 @@ p{
 	
 }
 header {
-	width: 80%;
+	width: 60%;
         background-color: #212F3C;
 	z-index: 9999999;
-	padding-right: 1em;
-	
+	position: relative;
 }
 header h1{
 	color: #fff;
 	font-size: 5em;
 	position: relative;
-	float: left;
-
+float: left;
 }
 header img {
 
 	float: right;
-	position: relative;
 }
 footer {
 
