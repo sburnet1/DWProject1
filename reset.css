@@ -44,20 +44,18 @@ section#title h2 {
 	color: #032C52;
 	font-size: 1.5em;
 }
-header img {
 
+
+img.top {
 	display: block;
 	margin: auto;
-	padding: 2em;
-
-}
-
-.top {
-
 	bottom: 0;
+	padding-top: 2em;
 }
-.bottom {
+img.bottom {
 	top: 0;
-
+	display: block;
+	margin: auto;
+	padding-bottom: 2em;
 }
 
