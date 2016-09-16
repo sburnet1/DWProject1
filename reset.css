@@ -31,17 +31,17 @@ section#title  {
 	z-index: 9999999;
 	top: 0;
 	float: left;
-	background-color: rgba(141, 141, 159, 0.5);
+	background-color: rgba(141, 141, 159, 0.8);
 	text-align: center;
 }
 section#title h1{
-	color: #fff;
+	color: #032C52;
 	font-size: 4em;
 
 }
 section#title h2 {
 
-	color: #fff;
+	color: #032C52;
 	font-size: 1.5em;
 }
 header img {
