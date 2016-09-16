@@ -27,8 +27,8 @@ header {
         background-color: #212F3C;
 	width: 100%;
         position: fixed;
-	margin: auto;
-	text-align: left;
+	margin-left: auto;
+	text-align: right;
 	z-index: 9999999;
 	top: 0;
 	background: transparent url(nottoday.png) no-repeat right;
