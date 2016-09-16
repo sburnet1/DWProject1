@@ -35,6 +35,14 @@ p.top {
 	border-color:rgba(141,141,159,0.8);
 
 }
+p.bottom { 
+
+	padding-top: 3em;
+	border-bottom-style: solid;
+	border-width: 10px;
+	border-color:rgba(141,141,159,0.8);
+
+}
 section#title  {
 
 	display: block;
